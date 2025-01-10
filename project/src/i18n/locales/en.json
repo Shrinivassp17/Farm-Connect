@@ -1,0 +1,39 @@
+{
+  "header": {
+    "search": "Search diseases, pesticides, or connect with farmers...",
+    "community": "Community",
+    "shareKnowledge": "Share Knowledge"
+  },
+  "nav": {
+    "home": "Home",
+    "diseases": "Diseases",
+    "pesticides": "Pesticides",
+    "community": "Community",
+    "resources": "Resources",
+    "settings": "Settings"
+  },
+  "feed": {
+    "title": "Community Knowledge Sharing",
+    "subtitle": "Learn from other farmers' experiences and share your own insights",
+    "shareButton": "Share Your Experience"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "hi": "हिंदी",
+    "kn": "ಕನ್ನಡ",
+    "ta": "தமிழ்",
+    "te": "తెలుగు",
+    "ml": "മലയാളം",
+    "bn": "বাংলা",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ja": "日本語",
+    "ko": "한국어",
+    "ar": "العربية",
+    "ru": "Русский",
+    "pt": "Português",
+    "it": "Italiano"
+  }
+}

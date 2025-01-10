@@ -1,0 +1,29 @@
+{
+  "header": {
+    "search": "Buscar enfermedades, pesticidas o conectar con agricultores...",
+    "community": "Comunidad",
+    "shareKnowledge": "Compartir Conocimiento"
+  },
+  "nav": {
+    "home": "Inicio",
+    "diseases": "Enfermedades",
+    "pesticides": "Pesticidas",
+    "community": "Comunidad",
+    "resources": "Recursos",
+    "settings": "Ajustes"
+  },
+  "feed": {
+    "title": "Compartir Conocimientos de la Comunidad",
+    "subtitle": "Aprende de las experiencias de otros agricultores y comparte tus propios conocimientos",
+    "shareButton": "Compartir tu Experiencia"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "hi": "हिंदी",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ar": "العربية"
+  }
+}

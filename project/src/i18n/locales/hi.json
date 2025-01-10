@@ -1,0 +1,29 @@
+{
+  "header": {
+    "search": "रोग, कीटनाशक खोजें या किसानों से जुड़ें...",
+    "community": "समुदाय",
+    "shareKnowledge": "ज्ञान साझा करें"
+  },
+  "nav": {
+    "home": "होम",
+    "diseases": "रोग",
+    "pesticides": "कीटनाशक",
+    "community": "समुदाय",
+    "resources": "संसाधन",
+    "settings": "सेटिंग्स"
+  },
+  "feed": {
+    "title": "सामुदायिक ज्ञान साझाकरण",
+    "subtitle": "अन्य किसानों के अनुभवों से सीखें और अपनी अंतर्दृष्टि साझा करें",
+    "shareButton": "अपना अनुभव साझा करें"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Español",
+    "hi": "हिंदी",
+    "fr": "Français",
+    "de": "Deutsch",
+    "zh": "中文",
+    "ar": "العربية"
+  }
+}
